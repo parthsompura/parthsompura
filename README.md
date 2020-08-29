@@ -9,6 +9,6 @@ I'm pursuing masters 👨🏻‍🎓 from Indian Institute of Technology Jammu (
 
 - 🔭 I’m currently working on various projects that are related to AI 😋.
 - 🌱 I’m currently learning computer vision and deep learning from various online platforms like coursera, kaggle, datacamp etc. 
-- 📫 More than happy to connect with you on LinkedIn: [LinkedIn](https://www.linkedin.com/in/parth-pathak-learner/)
+- 📫 More than happy to connect with you on LinkedIn: [https://www.linkedin.com/in/parth-pathak-learner/](https://www.linkedin.com/in/parth-pathak-learner/)
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
