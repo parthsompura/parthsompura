@@ -2,6 +2,7 @@
 
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I am pursuing masters 👨🏻‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science). My interest areas are Deep Learning, Computer Vision and Machine Learning 🤖.
 
@@ -13,4 +14,4 @@ I am pursuing masters 👨🏻‍🎓 from Indian Institute of Technology Jammu 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
