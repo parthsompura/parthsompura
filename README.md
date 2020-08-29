@@ -1,4 +1,4 @@
-### Hi there 👋🏻,  Welcome to my GitHub :octocat:, I'm Parth Pathak 👨🏻‍💻
+### Hi there 👋🏻,  Welcome to my GitHub :octocat:, I'm Parth Pathak 👨🏻‍💻🧙‍♂️
 
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
