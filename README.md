@@ -3,10 +3,10 @@
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
 
 I'm pursuing masters 👨🏻‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science). My interest areas are Deep Learning, Computer Vision and Machine Learning 🤖.
 
+![](https://komarev.com/ghpvc/?username=ParthPathak27&color=blue)
 
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
 - 🌱 I’m currently learning computer vision and deep learning from various online platforms like coursera, kaggle, datacamp etc. 
