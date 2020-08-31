@@ -6,7 +6,7 @@
 
 I'm pursuing masters 👨🏻‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science). My interest areas are Deep Learning, Computer Vision and Machine Learning 🤖.
 
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=blue)
+![](https://komarev.com/ghpvc/?username=ParthPathak27&color=blue)  [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?color=red)](https://www.linkedin.com/in/parth-pathak-learner/)
 
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
 - 🌱 I’m currently learning computer vision and deep learning from various online platforms like coursera, kaggle, datacamp etc. 
