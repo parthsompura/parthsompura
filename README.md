@@ -14,4 +14,4 @@ I'm pursuing masters 👨🏻‍🎓 from **Indian Institute of Technology Jammu
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
-![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs,rank&show_icons=true&theme=radical)
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs&show_icons=true&theme=radical)
