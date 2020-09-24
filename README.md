@@ -15,3 +15,4 @@ I'm pursuing masters 👨🏻‍🎓 from **Indian Institute of Technology Jammu
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthPathak27&layout=compact)](https://github.com/ParthPathak27/github-readme-stats)
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPathak27&show_icons=true&theme=radical)
