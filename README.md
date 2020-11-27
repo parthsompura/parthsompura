@@ -19,7 +19,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
-![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs&show_icons=true&theme=radical)&emsp;<img src="7.gif" width="350" height="170">
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs&show_icons=true&theme=radical)&emsp;<img src="7.gif" width="300" height="170">
 
 <img src="5.gif" width="60" height="50.13"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_
 
