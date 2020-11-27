@@ -1,5 +1,5 @@
 ### Hi there 👋🏻,  Welcome to my GitHub :octocat:, 
-<hr style="border:1px solid gray"> </hr>
+<hr style="border:0.5px solid gray"> </hr>
 ## I'm Parth Pathak 👨🏻‍💻 🧙‍♂️ <img src="1.gif" width="50" height="50">
 
 <!--
