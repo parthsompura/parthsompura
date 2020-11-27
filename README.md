@@ -1,5 +1,4 @@
 ### Hi there 👋🏻,  Welcome to my GitHub :octocat:
-
 ## I'm Parth Pathak 👨🏻‍💻 🧙‍♂️ <img src="1.gif" width="50" height="50">
 
 <!--
