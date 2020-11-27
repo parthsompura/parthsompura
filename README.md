@@ -13,7 +13,7 @@ My interest areas are **Deep Learning, Computer Vision** and **Machine Learning.
 
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
 - 🌱 I’m currently learning computer vision and deep learning from various online platforms like coursera, kaggle, datacamp etc. 
-- 📫 More than happy to connect with you on LinkedIn: [https://www.linkedin.com/in/parth-pathak-learner/](https://www.linkedin.com/in/parth-pathak-learner/)
+- 📫 More than happy to connect with you on LinkedIn: [_Parth Pathak_](https://www.linkedin.com/in/parth-pathak-learner/)
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
