@@ -1,4 +1,4 @@
-## Hi, I'm Parth Pathak! <img src="1.gif" width="50" height="43.13">
+## Hi 👋🏻, I'm Parth Pathak! 👨🏻‍💻 🧙‍♂️ <img src="1.gif" width="50" height="43.13">
 
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
