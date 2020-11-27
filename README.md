@@ -9,8 +9,9 @@ _I'm pursuing masters from [**Indian Institute of Technology Jammu (IIT Jammu)**
 _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖 <img src="3.gif" width="30" height="20.58">
 
  [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/ParthPathak27/links/7)  ![](https://komarev.com/ghpvc/?username=ParthPathak27&color=blue) [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
- <img data-canonical-src="https://img.shields.io/badge/-parthpathak-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/parth-pathak-learner/" style="max-width:100%;">
- 
+
+[![](https://img.shields.io/badge/-parthpathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-pathak-learner/)]
+
  ### <img src="4.gif" width="50" height="42.5"> A little more about me...
  
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
