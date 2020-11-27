@@ -4,7 +4,7 @@
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-_I'm pursuing masters from [Indian Institute of Technology Jammu (IIT Jammu)](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="2.gif" width="30" height="30">
+_I'm pursuing masters from **[Indian Institute of Technology Jammu (IIT Jammu)]**(https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="2.gif" width="30" height="30">
 
 _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖 <img src="3.gif" width="30" height="20.58">
 
