@@ -10,7 +10,6 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 
 [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://parthcseiitian.wixsite.com/parth)
 [![](https://img.shields.io/badge/-@parth-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
-
  ### <img src="4.gif" width="50" height="42.5"> A little more about me...
  
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
