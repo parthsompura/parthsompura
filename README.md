@@ -1,4 +1,4 @@
-## Hi there <img src="gifs/wave.gif" width="30" height="30">, Welcome to my GitHub :octocat:, I'm Parth Pathak! 👨🏻‍💻 🧙‍♂️
+## Hi there <img src="gifs/wave.gif" width="30" height="30">, Welcome to my GitHub :octocat:, I'm [Parth Pathak](https://parthcseiitian.wixsite.com/parth)! 👨🏻‍💻 🧙‍♂️
 
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
