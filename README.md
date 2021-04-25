@@ -6,7 +6,7 @@
 
 _I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="2.gif" width="30" height="30">
 
-_My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖 <img src="3.gif" width="30" height="20.58">
+_My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<a href="https://auth.geeksforgeeks.org/user/parth2704/practice" target="_blank"><img src="3.gif" width="30" height="20.58"></a>
 
 [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://parthcseiitian.wixsite.com/parth)
 ![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
