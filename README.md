@@ -1,14 +1,14 @@
-## Hi there <img src="wave.gif" width="30" height="30">, Welcome to my GitHub :octocat:, I'm Parth Pathak! 👨🏻‍💻 🧙‍♂️
+## Hi there <img src="gifs/wave.gif" width="30" height="30">, Welcome to my GitHub :octocat:, I'm Parth Pathak! 👨🏻‍💻 🧙‍♂️
 
 <!--
 **ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-_I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="2.gif" width="30" height="30">
+_I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="gifs/convo.gif" width="30" height="30">
 
-_My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="3.gif" width="30" height="20.58">
+_My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="gifs/geek.gif" width="30" height="20.58">
 
- ### <img src="4.gif" width="50" height="42.5"> A little more about me...
+ ### <img src="gifs/flying.gif" width="50" height="42.5"> A little more about me...
  
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
 - 🌱 I’m currently learning computer vision and deep learning from various online platforms like coursera, kaggle, datacamp etc. 
@@ -25,7 +25,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 
 <p align="center">
 
- <img src="5.gif" width="60" height="50.13"> <i><b>I love connecting with different people** so if you want to say hi, I'll be happy to meet you more! :)<b><i>
+ <img src="gifs/collab.gif" width="60" height="50.13"> <i><b>I love connecting with different people** so if you want to say hi, I'll be happy to meet you more! :)<b><i>
   
 [![Website Badge](https://img.shields.io/badge/-parthpathak.com-ff0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
 [![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
