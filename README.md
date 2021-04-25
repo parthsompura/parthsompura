@@ -12,6 +12,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
  
 <p>
   <i><b>Let's connect and chat! Find me on the web...<b></i>
+  <img src="5.gif" width="60" height="50.13"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_
   
 [![Website Badge](https://img.shields.io/badge/-parthpathak.com-ff0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
 [![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
