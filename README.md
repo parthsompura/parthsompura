@@ -22,7 +22,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
 **Github Stats:**
-<p align="center">
+<p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs&show_icons=true&theme=radical">
 
