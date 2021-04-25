@@ -46,7 +46,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/ParthPathak27/ParthPathak27.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
 </div>
 
