@@ -46,4 +46,3 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 ![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://parthcseiitian.wixsite.com/parth)
 
 </div>
----
