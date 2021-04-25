@@ -8,19 +8,6 @@ _I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)
 
 _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="3.gif" width="30" height="20.58">
 
-
- 
-<p>
-  <img src="5.gif" width="60" height="50.13"> <i><b>I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)<b><i>
-  
-[![Website Badge](https://img.shields.io/badge/-parthpathak.com-ff0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
-[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
-[![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
-
-</p>
-
-
  ### <img src="4.gif" width="50" height="42.5"> A little more about me...
  
 - 🔭 I’m currently working on various projects that are related to AI 🐱‍💻. I love solving various real world problems using computer science 😋 
@@ -38,6 +25,13 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 <img src="5.gif" width="60" height="50.13"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_
 
 <p align="center">
+
+ <img src="5.gif" width="60" height="50.13"> <i><b>I love connecting with different people** so if you want to say hi, I'll be happy to meet you more! :)<b><i>
+  
+[![Website Badge](https://img.shields.io/badge/-parthpathak.com-ff0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
+[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
+[![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
