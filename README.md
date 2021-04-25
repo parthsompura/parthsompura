@@ -12,7 +12,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 ![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
 [![](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
 [![](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
-[![](https://img.shields.io/badge/-parth-greenblack?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.instagram.com/parth.2704/)
+[![](https://img.shields.io/badge/-parth?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.instagram.com/parth.2704/)
 
  ### <img src="4.gif" width="50" height="42.5"> A little more about me...
  
