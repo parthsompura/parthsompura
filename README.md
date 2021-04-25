@@ -10,7 +10,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 
 
  
-<p align="center">
+<p>
   <i>Let's connect and chat! Find me on the web...</i>
   
 [![Website Badge](https://img.shields.io/badge/-parthpathak.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
