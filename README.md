@@ -8,11 +8,12 @@ _I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)
 
 _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="3.gif" width="30" height="20.58">
 
-[![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://parthcseiitian.wixsite.com/parth)
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
-[![](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
-[![](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
+[![Website Badge](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://parthcseiitian.wixsite.com/parth)
+![ProfileView Counter](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
+[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
+[![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
+
 
  ### <img src="4.gif" width="50" height="42.5"> A little more about me...
  
@@ -29,14 +30,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 </p>
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
- 
- [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://parthcseiitian.wixsite.com/parth)
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000)
-[![](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
-[![](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
- 
+
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
@@ -44,13 +38,12 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
   </p>
 </p>
 
-<div align="right">
-  
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
-
-</div>
-
 
 <img src="5.gif" width="60" height="50.13"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_
 
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://parthcseiitian.wixsite.com/parth)
+
+</div>
 ---
