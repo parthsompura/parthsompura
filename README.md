@@ -31,7 +31,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 [![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
 [![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
-[![Sourcerer Badge](https://img.shields.io/badge/-parthpathak27-1c6340?style=flat&logo=Sourcerer&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
+[![Sourcerer Badge](https://img.shields.io/badge/-parthpathak27?style=flat&logo=Sourcerer&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
