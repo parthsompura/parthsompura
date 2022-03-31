@@ -1,7 +1,7 @@
 ## Hi there <img src="gifs/wave.gif" width="30" height="30">, Welcome to my GitHub :octocat:, I'm [Parth Pathak](https://parthcseiitian.wixsite.com/parth)! 👨‍🚀
 
 <!--
-**ParthPathak27/ParthPathak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**parthsompura/parthsompura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 _I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="gifs/convo.gif" width="30" height="30">
@@ -18,7 +18,7 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 **Github Stats:**
 <p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthPathak27&hide=contribs&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthsompura&hide=contribs&show_icons=true&theme=radical">
 
 </p>
 
@@ -41,6 +41,6 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 
 <div align="right">
   
-![](https://komarev.com/ghpvc/?username=ParthPathak27&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://parthcseiitian.wixsite.com/parth)
+![](https://komarev.com/ghpvc/?username=parthsompura&color=ff0000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://parthcseiitian.wixsite.com/parth)
 
 </div>
