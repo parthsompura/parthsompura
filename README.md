@@ -4,7 +4,7 @@
 **parthsompura/parthsompura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-_I'm pursuing a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="gifs/convo.gif" width="30" height="30">
+_I've pursued a masters from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/) in **Computer Science (Data Science)**_ <img src="gifs/convo.gif" width="30" height="30">
 
 _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="gifs/geek.gif" width="30" height="20.58">
 
