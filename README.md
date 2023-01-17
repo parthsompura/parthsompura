@@ -21,8 +21,8 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
  <img src="gifs/collab.gif" width="60" height="50.13"> <i><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)<b><i>
   
 [![Website Badge](https://img.shields.io/badge/-parthpathak.com-ff0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://parthcseiitian.wixsite.com/parth)](https://parthcseiitian.wixsite.com/parth) 
-[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-learner/)
-[![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704/)
+[![Linkedin Badge](https://img.shields.io/badge/-parth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthsompura)
+[![Instagram Badge](https://img.shields.io/badge/-@parth-black?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parth.2704)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-parth2704-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/parth2704/practice)](https://auth.geeksforgeeks.org/user/parth2704/practice)
 
   <p align="center">
