@@ -15,13 +15,6 @@ _My interest areas are **Deep Learning, Computer Vision** and **Machine Learning
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, sketching 🖍️ and painting 🖌️
 
-**Github Stats:**
-<p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=parthsompura&hide=contribs&show_icons=true&theme=radical">
-
-</p>
-
 
 <p align="center">
 
