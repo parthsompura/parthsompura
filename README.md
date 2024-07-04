@@ -8,6 +8,8 @@ _Experienced **Computer Scientist** with a demonstrated history of working in to
 
 **AIR 2k @ GATE CSE'20 with a Score of 577, in Top 2k CS Engineers across India.**
 
+**[Silver Medalist 🥇 @ IIT Jammu](https://iitjammu.ac.in/convocation2022/medals.html)**
+
 _My interest areas are **Software Development, Data Science, AI, Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="gifs/geek.gif" width="30" height="20.58">
 
  ### <img src="gifs/flying.gif" width="50" height="42.5"> A little more about me...
