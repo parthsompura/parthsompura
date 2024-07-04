@@ -6,7 +6,7 @@
 
 _Experienced **Computer Scientist** with a demonstrated history of working in top computer software industries. Skilled in Software Development, Data Science, Algorithms, Object-Oriented Programming (OOP), and Distributed Computing & Multiprocessing. Strong engineering professional with a Masters' in **Computer Science** from [**Indian Institute of Technology Jammu (IIT Jammu)**](https://iitjammu.ac.in/)_ <img src="gifs/convo.gif" width="30" height="30">
 
-**_AIR 2k Gate CSE'20 with Gate Score 577, in Top 2k CS Engineers across India.**
+**AIR 2k Gate CSE'20 with Gate Score 577, in Top 2k CS Engineers across India.**
 
 _My interest areas are **Software Development, Deep Learning, Computer Vision** and **Machine Learning**_ 🤖<img src="gifs/geek.gif" width="30" height="20.58">
 
